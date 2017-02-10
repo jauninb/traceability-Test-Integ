@@ -1,2 +1,2 @@
 # traceability
-mon test à moi
+sample node app for traceability testing purpose
