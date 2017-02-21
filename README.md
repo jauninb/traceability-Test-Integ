@@ -1,2 +1,2 @@
 # traceability
-sample node app for traceability testing purpose aa
+sample node app for traceability testing purpose aabb
