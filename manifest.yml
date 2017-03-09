@@ -4,4 +4,4 @@ applications:
   memory: 64M
   instances: 1
   path: .
-  command: node index
+  command: node app
