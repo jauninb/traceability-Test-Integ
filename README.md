@@ -11,3 +11,4 @@ maj 7
 maj 8
 maj 9 (vers issue #9)
 maj dans branche pr3
+maj pour ref à postériori à la PR
